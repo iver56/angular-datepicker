@@ -30,3 +30,7 @@ To create a date or time picker, add the `pick-a-date` or `pick-a-time` directiv
 <input type="text" pick-a-date="date" placeholder="Select Date" /> {{ date }}
 <input type="text" pick-a-time="time" placeholder="Select Time" /> {{ time }}
 ```
+
+### Grunt
+
+Run `grunt picker` to create a new (minified) build
